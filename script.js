@@ -14,4 +14,4 @@ setInterval(() => {
     } else {
         icon.nextElementSibling.classList.add('change')
     }
-}, 4000);
+}, 2000);
